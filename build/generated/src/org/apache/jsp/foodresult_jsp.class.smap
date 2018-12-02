@@ -1,0 +1,17 @@
+SMAP
+foodresult_jsp.java
+JSP
+*S JSP
+*F
++ 0 foodresult.jsp
+foodresult.jsp
+*L
+1,36:47
+36,13:83
+49,5:97
+53,2:102
+55,5:104,3
+60,2:119
+62,2:122
+63,4:124
+*E
